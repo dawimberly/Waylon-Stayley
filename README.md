@@ -9,6 +9,18 @@
 
 ---
 
+## Vocal Direction
+
+All new / synthetic versions of these songs use the **vocalist from RowanShade**.
+
+- It is his natural voice applied to every track.
+- His range and flexibility allow him to move through styles associated with Jodeci, Aaron Neville, Tool, Alice in Chains, and more.
+- The goal is not imitation of those artists, but using the breadth of *his* voice to serve the Gruntry Crunge arrangements.
+
+RowanShade reference tracks include: *How Many Times*, *Hypnotized*, *All I Ever Need*, *Wrong*, *Wake Up*.
+
+---
+
 ## Waylon Stayley – Gruntry Crunge Set List
 
 ### 1. Are You Sure Hank Done It This Way (Waylon Jennings)
@@ -62,6 +74,7 @@ Encore / quiet closer. Almost completely stripped. Voice, sparse dirty electric 
 - **Fiddle**: Used like a second voice — mournful, aggressive, or answering the guitar. Never just decoration.
 - **Groove**: Slightly behind the beat, with swing. Never stiff.
 - **Attitude**: Everything should feel like it was recorded in a hot, smoky room at 2 a.m.
+- **Vocals**: RowanShade vocalist on every track — his voice, used with full range across the hybrid arrangements.
 
 ---
 
